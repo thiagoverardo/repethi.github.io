@@ -19,16 +19,18 @@ body{
 	height:3rem;
 	margin:3.5rem;
 	display: inline;
-	font-size:1.1rem;
+	font-size:1.3rem;
 	position:relative;
 }
+
 
 .submenu {
     background-color: rgb(106,125,142);
     border: 1px solid black;
     position: absolute;
     top: 1.5rem;
-    left: -1px;
+    left: -3.75rem;
+    right:-3.75rem;
     opacity: 0;
     visibility: hidden;
     transition: opacity 1s, visibility 1s;
@@ -41,7 +43,7 @@ body{
     color:black;
 }
 .submenu-item {
-    padding: .25rem;
+    padding: .5rem;
     color:black;
 }
 
@@ -125,7 +127,7 @@ body{
 	border-style: solid;
 	border-width: 2px;
 	margin:1rem;
-	padding: 1.1rem;
+	padding: 0.5rem;
 	max-width: 1400px;
 	min-width: 300px;
 	margin-left:1.5rem;
@@ -164,4 +166,27 @@ body{
 .a:hover{
 	color:blue;
 	text-decoration: underline;
+}
+.submenu li {
+	list-style-type: square;
+    list-style-position: inside
+}
+
+@media (max-width: 350px){
+	.a:focus{
+		color:blue;
+		text-decoration: underline;
+	}
+	.nav-item:focus .submenu {
+ 		opacity: 1;
+    	visibility: visible;
+    	color:black;
+	}
+	.submenu-item:focus {
+    	background-color: rgb(106,125,142);
+    	color: black;
+	}
+	.a2:focus{
+		color:blue;
+	}
 }
