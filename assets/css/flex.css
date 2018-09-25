@@ -1,0 +1,200 @@
+body {
+    background-color: rgb(255,236,165);
+}
+
+.parent {
+    align-items: center;
+    background-color: rgb(255,236,165);
+    display: grid;
+    grid-template-rows: 0.35rem 0.35rem 0.35rem 0.35rem 0.35rem 0.35rem;
+    grid-template-columns:50% 50%;
+    margin:1rem;
+    padding: 2rem;
+}
+
+.child3 , .child4, .child5, .child7, .child8, .child9{
+    
+    margin: 1rem;
+    padding: 1rem;
+}
+
+h1{
+    background-color: rgb(255,236,165);
+    text-align: left;
+    margin-bottom: 1.5rem;
+    margin-top:1.5rem;
+    padding:1.1rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family:Prata;
+}
+
+
+.child2{
+    background-color: rgb(106,125,142);
+    border-style: solid;
+    border-width: 2px;
+    margin: 1.5rem;
+    padding:1.1rem;
+    text-align:center;
+    color:black; 
+}
+
+
+.nav-item{
+    background-color: rgb(106,125,142);
+    width: 15rem;
+    height:3rem;
+    margin:3.5rem;
+    display: inline;
+    font-size:1.1rem;
+    position:relative;
+}
+
+.submenu {
+    background-color: rgb(106,125,142);
+    border: 1px solid black;
+    position: absolute;
+    top: 1.5rem;
+    left: -1px;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 1s, visibility 1s;
+    color:black;
+}
+
+.nav-item:hover .submenu {
+    opacity: 1;
+    visibility: visible;
+    color:black;
+}
+.submenu-item {
+    padding: .25rem;
+    color:black;
+}
+
+.submenu-item:hover {
+    background-color: rgb(106,125,142);
+    color: black;
+}
+.a2{
+    color:black;
+}
+
+.a2:hover{
+    color:blue;
+}
+.a{
+    color:black;
+    text-decoration: none;
+}
+
+.a:hover{
+    color:blue;
+    text-decoration: underline;
+}
+.child3 {
+    background-color: rgb(193,210,214);
+    grid-row-start:8;
+    grid-row-end: 9;
+    grid-column-start:1 ;
+    grid-column-end: 2;
+}
+
+.child4 {
+    background-color: rgb(193,210,214);
+    grid-row-start:11 ;
+    grid-row-end: 12;
+    grid-column-start:2 ;
+    grid-column-end: 3;
+}
+
+.child5 {
+    background-color: rgb(193,210,214);
+    grid-row-start:14 ;
+    grid-row-end: 15;
+    grid-column-start:1 ;
+    grid-column-end:2 ;
+}
+
+
+.child6 {
+    background-color: rgb(106,125,142);
+    grid-row-start:18 ;
+    grid-row-end: 19;
+    grid-column-start:1 ;
+    grid-column-end:3 ;
+    padding: 1.1rem;
+}
+
+.child7 {
+    background-color: rgb(255,236,165);
+    grid-row-start:8 ;
+    grid-row-end: 9;
+    grid-column-start: 2;
+    grid-column-end:3;
+    height: auto;
+    width: auto;
+    text-align: center;
+    }
+
+.child8 {
+    background-color: rgb(255,236,165);
+    grid-row-start:11 ;
+    grid-row-end: 12;
+    grid-column-start: 1;
+    grid-column-end:2 ;
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+
+.child9 {
+    background-color: rgb(255,236,165);
+    grid-row-start:14 ;
+    grid-row-end: 15;
+    grid-column-start: 2;
+    grid-column-end:3 ;
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+
+h2{
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family:Prata;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5
+}
+
+section{
+    font-size: 1.2rem;
+    font-family: IBM+Plex+Sans;
+    line-height:1.5rem;
+}
+
+.child3 , .child4, .child5{
+    border-style: solid;
+    border-width: 2px;
+}
+
+.child5 li{
+    list-style-type: square;
+    list-style-position: inside
+}
+
+.child4 li{
+    list-style-type: square;
+    list-style-position: inside;
+}
+
+.header{
+    background-color: rgb(106,125,142);
+    border-style: solid;
+    border-width: 2px;
+    margin: 1.5rem;
+    padding:1.1rem;
+    text-align:center;

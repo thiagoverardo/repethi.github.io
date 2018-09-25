@@ -1,0 +1,430 @@
+{
+
+    "Título": {
+        "nome": "Repethi"
+    },
+    "Menu": {
+        "categoria1": "Humanas",
+        "Matérias1": "GDE",
+        "categoria2": "Design",
+        "Matérias2": [
+            "Girafa Job Rotation",
+            "Melhoria para Carroças",
+            "Desconstruindo a Matéria"
+             ],
+        "categoria3": "Matemática",
+        "Matérias3": [
+            "Matemática da Variação",
+            "Matemática Multivariada",
+            "Modelagem e simulação"
+             ],
+        "categoria4": "Computação",
+        "Matérias4": [
+            "Design de Software",
+            "Co-Design de Aplicativos",
+            "Ciência dos Dados"
+             ],
+        "categoria5": "Elétrica",
+        "Matérias5": [
+            "Estação Meteorológica",
+            "Acionamentos Elétricos",
+            "Modelagem e Controle"
+            ],
+        "categoria6": "Business",
+        "Matérias6": [
+            "Inovação Icremental Empresa Existente",
+            "Modelo de Negócio para Startup"
+             ]
+    },
+    "Corpo Menu": {
+        "sub1":"Sobre o Site",
+        "conteudo1" : "O nosso site busca apresentar, para os interessados, informações a respeito dos projetos envolvendo o curso de Engenharia realizado no Insper.Cada projeto proposto pelo Insper propõe um desafio diferente para os alunos e tem como objetivo facilitar o aprendizado, de forma a desenvolver ao máximo o conhecimento do aluno sobre os assuntos a serem discutidos.Todos os projetos são realizados com o intuito de mostrar que há maneiras mais práticas e interativas de absorver conhecimento do que estudando para provas." ,
+        "sub2": "Melhores Avaliações",
+        "conteudo2" : "Cada matéria estudada durante o curso demanda dos alunos em torno de 2 a 3 projetos. Desta forma, ao fim do curso são dezenas de projetos relizados por cada aluno. Aqui se encontram os projetos melhor avaliados pelos professores:Design de Software, Modelagem e Simulação do Mundo Físico, Grande Desafios da Engeharia",
+        "sub3": "Corpo Docente",
+        "conteudo3" : "Para todos os projetos os alunos recebem instruções e auxílo de professores e técnicos da instituição, portanto, nada mais justo cita-los aqui como uma forma de reconhecimento:Fábio Pelicano, Fábio Ayres, Fábio Miranda, Fábio Bobrow, Marcelo Hashimoto, Portfólio de Disciplinas, Portfólio de Disciplinas, "
+    },
+    "Rodapé": {
+        "EC": "Entre em contato",
+        "email": "Email: repethi@gmail.com",
+        "Tel": "Telefone: (11) 6383-5927",
+        "End": "Endereço: Rua Quatá - Vila Olímpia"
+    },
+    "Corpo Projeto1": {
+        "Nome":" Design de Software",
+        "SubNome": "Projeto Final",
+        "subtitulo1" : "Objetivo do Projeto", 
+        "corpo1" : "O objetivo deste projeto foi desenvolver um jogo ou um site, com base no conteúdo aprendido em sala de aula ao longo do semestre. O projeto foi realizado em grupos de até 3 pessoas, as quais puderam escolher o tema que iriam abordar no jogo.",
+        "subtitulo2" :"Recursos Utilizados",
+        "corpo2": [
+            "O projeto foi desenvolvido em Python, com uso das bibliotecas Pygame e Tkinter. Para obter mais informações foram utilizados tutoriais disponibilizados em alguns sites e canais do YouTube, como o 'KidsCanCode' a respeito da biblioteca Pygame, principalmente.",
+            "Para a edição de imagens do jogo, foram utilizados o Paint, o GIMP 2 e outros programas de edição de imagens."
+            ],
+        "subtitulo3" :"Desenvolvimento do Projeto",
+        "subsub1": "Planejamento", 
+        "subcorpo1": [
+                "A primeira parte do projeto foi decidir o tema do jogo ou site e fazer estimativas de quais seriam os possíveis atributos deles",  
+                "Desta forma, ficou decidido que o grupo criaria um jogo baseado no famoso 'Space Invaders', mas em vista isométrica. A princípio o jogo também deveria ter powerups e a possibilidade de escolher com qual nave o player jogaria. O inimigo seria uma chuva de satélites."
+                ],
+        "subsub2": "Andamento do Projeto",
+        "subcorpo2" : [
+                "Durante a programação do jogo foram enfrentados diversos desafios, como o 'scroll' da tela de fundo do jogo na diagonal, para acompanhar o movimento da nave e dos satélites, a animação das explosões e os sons."
+                ],
+        "subsub3":"Conclusão do Projeto",
+        "subcorpo3" : [
+                "A parte final do projeto foi focada em arrumar qualquer bug que o jogo ainda apresentasse e dar os toques finais nas imagens e nos menus do jogo"
+                ],
+        "subtitulo4": "Feedback do Projeto",
+        "corpo4" : "O projeto foi um sucesso, embora não tenha sido exatamente da forma que foi planejado, já que a ideia dos powerups e do menu de seleção de naves foi abandonada no processo. A nota atribuída ao jogo, pelo professor, foi B."
+        },
+    "Corpo Projeto2": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        },
+    "Corpo Projeto3": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        },
+    "Corpo Projeto4": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        },
+    "Corpo Projeto5": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        },
+    "Corpo Projeto6": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        },
+    "Corpo Projeto7": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        },
+    "Corpo Projeto8": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        },
+    "Corpo Projeto9": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        },
+    "Corpo Projeto10": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        },
+    "Corpo Projeto11": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        },
+    "Corpo Projeto12": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        },
+    "Corpo Projeto13": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        },
+    "Corpo Projeto14": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        },
+    "Corpo Projeto15": {
+        "Nome":"Iorem Ipsuim",
+        "SubNome": "Iorem Ipsuim",
+        "subtitulo1" : "Iorem Ipsuim", 
+        "corpo1" : "Iorem Ipsuim",
+        "subtitulo2" :"Iorem Ipsuim",
+        "corpo2": [
+            "Iorem Ipsuim"
+            ],
+        "subtitulo3" :"Iorem Ipsuim",
+        "subsub1":"Iorem Ipsuim", 
+        "subcorpo1": [
+                "Iorem Ipsuim"
+                ],
+        "subsub2": "Iorem Ipsuim",
+        "subcorpo2" : [
+               "Iorem Ipsuim"
+                ],
+        "subsub3":"Iorem Ipsuim",
+        "subcorpo3" : [
+                "Iorem Ipsuim"
+                ],
+        "subtitulo4": "Iorem Ipsuim",
+        "corpo4" : "Iorem Ipsuim"
+        }
+    }
