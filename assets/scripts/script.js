@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    let db = new DB('https://highscore-global.firebaseio.com/')
+    let db = new DB('https://projeto-1-codes.firebaseio.com/')
 
     let params = new URLSearchParams(window.location.search)
 
