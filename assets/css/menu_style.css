@@ -23,6 +23,9 @@ body{
 	position:relative;
 }
 
+.link{
+    text-decoration: none;
+}
 
 .submenu {
     background-color: rgb(106,125,142);
