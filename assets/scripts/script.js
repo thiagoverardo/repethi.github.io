@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
           Conclusão.innerHTML = data['subcorpo3']
 
           let Feedback = document.querySelector('.section4 .p')
-          Feedback.innerHTML = data['corpo6']
+          Feedback.innerHTML = data['corpo4']
 
 
         }
