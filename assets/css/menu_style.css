@@ -56,7 +56,7 @@ body{
 }
 
 .a2:hover{
-	color:blue;
+	color: rgb(255,236,165);
 }
 .h1, .hA, .h2, .h3, .h4{
 	background-color:  rgb(255,236,165);
@@ -164,7 +164,7 @@ body{
 	text-decoration: none;
 }
 .a:hover{
-	color:blue;
+	color: rgb(255,236,165);
 	text-decoration: underline;
 }
 .submenu li {
