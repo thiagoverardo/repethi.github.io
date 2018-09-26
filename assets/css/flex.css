@@ -212,7 +212,7 @@ section{
 
 @media (max-width: 350px){
     .a:focus{
-        color:blue;
+        color: rgb(255,236,165);
         text-decoration: underline;
     }
     .nav-item:focus .submenu {
@@ -225,6 +225,6 @@ section{
         color: black;
     }
     .a2:focus{
-        color:blue;
+        color: rgb(255,236,165);
     }
 }
