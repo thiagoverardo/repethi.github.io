@@ -177,14 +177,19 @@ body{
 		color:blue;
 		text-decoration: underline;
 	}
+	nav-item:focus {
+        	opacity: 1;
+        	visibility: visible;
+        	color:black;
+    	}
 	.nav-item:focus .submenu {
  		opacity: 1;
-    	visibility: visible;
-    	color:black;
+    		visibility: visible;
+    		color:black;
 	}
 	.submenu-item:focus {
-    	background-color: rgb(106,125,142);
-    	color: black;
+    		background-color: rgb(106,125,142);
+    		color: black;
 	}
 	.a2:focus{
 		color:blue;
