@@ -220,6 +220,11 @@ section{
         visibility: visible;
         color:black;
     }
+    .nav-item:focus {
+        opacity: 1;
+        visibility: visible;
+        color:black;
+    }
     .submenu-item:focus {
         background-color: rgb(106,125,142);
         color: black;
