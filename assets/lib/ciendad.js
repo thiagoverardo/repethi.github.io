@@ -1,6 +1,6 @@
 class AB {
   constructor(url) {
-    let app = firebase.initializeApp('https://teste-93bc2.firebaseio.com/', 'ciendad')
+    let app = firebase.initializeApp({databaseURL: url}, 'ciendad')
     this.database = app.database()
     this.href = window.location.href
     this.begin = Date.now()
