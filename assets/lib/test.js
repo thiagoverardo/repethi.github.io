@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         Seleciona o elemento que, quando clicado, finaliza a
         medição de tempo e envia o resultado para o banco.
     */
-    let element = document.querySelector('.continue')
+    let element = document.querySelector('.link')
 
     element.addEventListener('click', function() {
         /*
