@@ -12,13 +12,15 @@ class AB {
     let reference = this.database.ref('/')
     let fingerprint = new Fingerprint2()
 
-    fingerprint.get(function(result, components) {
-      reference.push({
-        'id': result,
-        'filename': filename,
-        'elapsed': elapsed,
+    setTimeout(function() {
+      fingerprint.get(function(result, components) {
+        reference.push({
+          'id': result,
+          'filename': filename,
+          'elapsed': elapsed,
+        })
       })
-    })
+    }, 500)
   }
 }
 
